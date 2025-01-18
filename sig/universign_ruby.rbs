@@ -1,0 +1,3 @@
+module UniversignRuby
+  VERSION: String
+end
